@@ -4,7 +4,7 @@ Sales trends analysis for e-commerce company
 ---
 
 ## 🚀 **Overview**
-TechHaven is an e-commerce company founded in 2018, specializing in popular consumer electronics. With a strong global presence across both their website and mobile app, they have grown into a $28M business offering products from top brands including Apple, Samsung, Bose, and Lenovo. Customers are reached through a mix of marketing channels including email campaigns, SEO, and affiliate links.
+TechHaven is an e-commerce company founded in 2018, specializing in popular consumer electronics. With a strong global presence across both their website and mobile app, they have grown into a $28M business offering products from top brands including Apple, Samsung, Bose, and Lenovo.
 
 TechHaven's Head of Operations has requested a comprehensive analysis of company performance between 2019 and 2022. This analysis addresses key business questions across sales trends, product performance, regional insights, customer loyalty, and operational efficiency — providing actionable insights and recommendations to support sustained growth.
 
@@ -132,6 +132,16 @@ demand, though this trend is unlikely to sustain as the market normalizes.
 financial risk from returns, while high-volume products like AirPods and Gaming Monitors
 present operational risk at scale. See the [Refunds](#refunds) section for a full breakdown.
 
+
+| Product | Suspicious Price Range | Order Count |AOV
+|---|---|---|---
+| 27in 4K Gaming Monitor | $1–100 | 73 | $421 |
+| Apple AirPods | $1–50 | 183 | $160 |
+| MacBook Air Laptop | $1–1000 | 259 | $1,591 | 
+| Samsung Charging Cable Pack | $1,000+ | 1 | $20 |
+| Thinkpad Laptop | <$1,000 | 550 | $1,101 |
+
+
 ### <ins>Regional Performance<ins>
 *TechHaven's performance is heavily concentrated in North America and EMEA, though growth 
 and decline patterns are broadly consistent across all regions — with LATAM emerging as a 
@@ -250,4 +260,6 @@ customers it brings in.
 — sharply contrasting with declines of -30% to -60% across all other channels in the same 
 periods. This is almost certainly a tracking or attribution issue and should be investigated 
 and resolved before drawing any conclusions from this channel's performance.
+
+
 
