@@ -279,14 +279,12 @@ one that raises broader questions about the effectiveness of TechHaven's loyalty
 overall. See [Loyalty Program Performance](#loyalty-program-performance) below.*
 
 ## <ins>Loyalty Program Performance<ins>
-*Despite a lower Average Order Value, loyalty members have demonstrated greater revenue 
-stability and resilience during downturns — making a strong case for continued investment 
-in the program.*
-
-![Loyalty Program Chart](images/loyalty_performance.png)
 *Despite early promise, the loyalty program shows structural weaknesses —
 near-zero repeat purchase rate, higher refund frequency, and eroding AOV advantage
 point to a program in need of significant restructuring.*
+
+![Loyalty Program Chart](images/loyalty_performance.png)
+
 
 <div align="center">
   <img src="images/loyalty_sales_aov.png" width="45%">
