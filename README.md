@@ -132,6 +132,31 @@ demand, though this trend is unlikely to sustain as the market normalizes.
 financial risk from returns, while high-volume products like AirPods and Gaming Monitors
 present operational risk at scale. See the [Refunds](#refunds) section for a full breakdown.
 
+## Product Trends & Apple Spotlight
+
+*Three products dominate TechHaven's revenue and order share across all four years, while
+Apple — once the clear category leader - has seen continued decline since Q4 2021,
+warranting deeper investigation into the steep 2022 drop-off.*
+
+### Performance by Period
+| Period | Total Sales | AOV | Total Orders |
+|---|---|---|---|
+| 2019–2022 (Full) | $28M | $260 | 108K |
+| Jan 2019–Mar 2020 (Pre-Pandemic) | $5M | $237 | 20K |
+| Mar 2020–Mar 2021 (Pandemic Peak) | $12M | $297 | 39K |
+| Mar 2021–Jan 2022 (Normalization) | $7M | $246 | 30K |
+| Jan 2022+ (Post-Normalization) | $4M | $229 | 19K |
+
+The pandemic window (Mar 2020–Mar 2021) was the clear performance peak across all
+three metrics — $12M in sales, $297 AOV, and 39K orders. Each subsequent period has
+seen declining sales, AOV, and order volume, with the post-normalization period
+returning closer to pre-pandemic baselines at $4M and $229 AOV.
+
+### Pricing Anomalies
+
+The following products show orders at price ranges inconsistent with their known
+retail pricing. These records have been flagged for data integrity review and should
+be noted in any pricing or AOV analysis.
 
 | Product | Suspicious Price Range | Order Count |AOV
 |---|---|---|---
@@ -140,6 +165,86 @@ present operational risk at scale. See the [Refunds](#refunds) section for a ful
 | MacBook Air Laptop | $1–1000 | 259 | $1,591 | 
 | Samsung Charging Cable Pack | $1,000+ | 1 | $20 |
 | Thinkpad Laptop | <$1,000 | 550 | $1,101 |
+
+ThinkPad and MacBook represent the largest anomaly risk by order count — 550 and
+259 orders respectively at price points well below retail. At their AOVs of $1,101
+and $1,591, even a small number of mispriced orders could meaningfully skew revenue
+and AOV figures. The Samsung Charging Cable Pack's single $1,000+ order is likely
+a data entry error given its $20 AOV.
+
+### Top 3 Product Share
+
+<div align="center">
+  <img src="images/top3_revenue_share.png" width="45%">
+  <img src="images/top3_order_share.png" width="45%">
+</div>
+
+- **Three Products Dominate:** By revenue, the 27in 4K Gaming Monitor ($9.8M), Apple
+AirPods ($7.7M), and MacBook Air ($6.3M) account for the vast majority of
+TechHaven's total revenue across the period. Together, these three products represent
+an overwhelming share of the $28M total ($23M) - indicating significant portfolio
+concentration risk. By order count, AirPods (48,391), Gaming Monitor (23,404), and
+Samsung Charging Cable (21,912) lead; with Samsung Charging Cable contributing only
+$442K in revenue despite its high order volume, reflecting its $20 AOV
+
+- **Gaming Monitor Grows Revenue Share:** On the revenue side, Gaming Monitor has
+grown from ~35% to nearly 50%+ share by late 2022, largely absorbing MacBook's decline.
+
+### Gaming Monitor by Region
+
+<div align="center">
+  <img src="images/gaming_monitor_region.png" width="75%">
+</div>
+
+- **Gaming Monitor is the Most Popular Product Across All Regions:** North America
+leads Gaming Monitor sales by a significant margin - nearly 3x EMEA, the second
+largest market - peaking at ~$186K in Jan 2022 before normalizing. All
+regions follow the same general pandemic spike and normalization pattern, though NA
+shows the sharpest volatility with a notable late 2022 uptick suggesting potential
+renewed demand worth monitoring.
+
+- **LATAM and APAC Remain Minimal Contributors:** Despite Gaming Monitor's global
+dominance, LATAM and APAC contribute minimally to its overall revenue. LATAM in
+particular remains flat throughout the entire period, suggesting either limited
+market penetration or low purchasing power relative to the product's price point.
+
+### Apple Spotlight
+
+<div align="center">
+  <img src="images/apple_dashboard.png" width="100%">
+</div>
+
+- **Apple Peak Late 2020, Declining Steadily Since:** North America drove
+the majority of Apple's pandemic-era growth, peaking between September and December
+2020. All regions have declined since Q4 2021, with the rate of decline steepening
+notably through 2022. The cause of this steep drop-off warrants
+further investigation before drawing permanent conclusions about Apple's trajectory.
+
+- **MacBook NA Sales and Volume Move in Lockstep:** MacBook sales and order volume
+in North America track extremely closely throughout the period, Both metrics peaked in
+late 2020 at ~$149K and ~95 orders respectively, and have declined in parallel since -
+pointing to a volume problem rather than a pricing or mix problem.
+
+- **MacBook AOV Shows a Notable Q4 2022 Outlier:** MacBook AOV in North America
+has fluctuated across the period, typically fluctuating in the $1,500 –
+$1,700 range. However, Q4 2022 shows a sharp drop to approximately $1,200 — well
+below the historical range. This could indicate heavy discounting, a pricing error,
+or a data integrity issue and should be investigated before citing this figure in
+executive reporting.
+
+- **MacBook Revenue Share Eroding:** MacBook's share of revenue has been on the
+decline since late 2022. This aligns with the broader Apple decline and is not
+reflected in order counts since MacBook never led on volume.
+
+- **AirPods: High Volume, Moderate AOV:** AirPods lead all products in order
+count at 48K but carry an AOV of only $160. Their order share has remained remarkably
+consistent, making them the most predictable volume driver in the portfolio.
+
+- **Apple Refunds Outpace All Other Brands:** Apple consistently generates the
+highest refund volume of any brand, with counts growing through the pandemic peak
+before declining alongside overall sales. See the [Refund Trends](#refund-trends) section
+for a full product and brand-level breakdown.
+
 
 ## Refunds
 
@@ -219,10 +324,10 @@ point to a program in need of significant restructuring.*
 </div>
 
 - **Revenue Contribution:** Since Q2-2021, loyalty members have generated higher 
-total sales compared to non-loyalty customers.
+total sales compared to non-loyalty customers. Totalling $10M between 2019-2022.
 
 - **Retention Rate:** Of 45,693 loyalty members, only 39 made more than 1 purchase on
-i different date - a repeat purchase rate of essentially 0%. For a program designed
+i different date - a repeat purchase rate of essentially 0% and sales of $29K. For a program designed
 to drive retention and repeat buying behavior, this is a significat failure signal.
 The program is enrolling members but not changing their purchasing behavior.
 
