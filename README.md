@@ -68,37 +68,7 @@ This analysis covers five key areas of TechHaven's business performance.
 
 
 
-## **Anaysis & Insights**
-
-### <ins>Sales Trends<ins>
-*TechHaven generated $28M in total revenue between 2019 and 2022, with growth peaking in 2021 
-before a broad market contraction in 2022 brought performance closer to pre-pandemic baselines.*
-
-![Sales Trends Chart](images/sales_trends.png)
-
-- **Overall Revenue & Regional Distribution:** North America was the dominant market, 
-contributing ~52% of total revenue ($14M), followed by EMEA at ~29% ($8M). Sales remain 
-heavily concentrated in these two regions, with other markets representing a relatively 
-small share of total volume.
-
-- **Year-over-Year Growth:** 2020 saw a significant spike in both order volume (+101%) and 
-sales, largely driven by pandemic-related demand. Growth peaked in 2021 before declining 
-sharply in 2022 (-40% in order volume), though 2022 figures still remained above pre-pandemic 
-2019 levels.
-
-- **Month-over-Month Seasonality:** Performance consistently dips in September–October and 
-again in February, before rebounding in March and peaking during the November–December holiday 
-period. These seasonal patterns held across nearly every year in the dataset.
-
-- **2022 Contraction:** October 2022 marked the sharpest single-month decline in the dataset, 
-with total sales falling -55%, AOV dropping -16%, and order count declining -47%. This 
-contraction was broad-based, affecting all regions and product categories simultaneously.
-
-- **AOV Stability:** Despite significant swings in order volume and total sales, Average Order 
-Value remained relatively stable throughout the period. Notably, AOV dipped in November — 
-suggesting holiday-driven volume was fueled by lower-priced items or promotions rather than 
-higher-value purchases.
-
+## **Anaylsis & Insights**
 
 ### <ins>Product Performance<ins>
 *A small number of products drive the vast majority of TechHaven's revenue and order volume, 
