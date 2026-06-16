@@ -222,9 +222,9 @@ for a full product and brand-level breakdown.
 in Apple products and high rate concentrated in Lenov - though a likely
 2022 data integrity issue means trends should be interpreted with caution.*
 
-<div align="center">
+<div align="Center">
   <img src="images/Reunds - Treemap.png" width="45%">
-  <img src="images/Refunds - Table1.png" width="45%">
+  <img src="images/Refunds - Total Avg.png" width="50%">
 </div>
 
 - **Refund Rate vs. Refund Volume:** ThinkPad carries the highest refund rate at 12% but
