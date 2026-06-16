@@ -70,7 +70,7 @@ This analysis covers five key areas of TechHaven's business performance.
 
 ## **Anaylsis & Insights**
 
-### <ins>Product Performance<ins>
+#### <ins>Product Performance<ins>
 *A small number of products drive the vast majority of TechHaven's revenue and order volume, 
 while high-AOV items like ThinkPad and MacBook carry disproportionate financial risk 
 from refunds.*
@@ -102,13 +102,13 @@ demand, though this trend is unlikely to sustain as the market normalizes.
 financial risk from returns, while high-volume products like AirPods and Gaming Monitors
 present operational risk at scale. See the [Refunds](#refunds) section for a full breakdown.
 
-## Product Trends & Apple Spotlight
+### <ins>Product Trends & Apple Spotlight<ins>
 
 *Three products dominate TechHaven's revenue and order share across all four years, while
 Apple — once the clear category leader - has seen continued decline since Q4 2021,
 warranting deeper investigation into the steep 2022 drop-off.*
 
-### Performance by Period
+### <ins>Performance by Period<ins>
 | Period | Total Sales | AOV | Total Orders |
 |---|---|---|---|
 | 2019–2022 (Full) | $28M | $260 | 108K |
@@ -117,14 +117,14 @@ warranting deeper investigation into the steep 2022 drop-off.*
 | Mar 2021–Jan 2022 (Normalization) | $7M | $246 | 30K |
 | Jan 2022+ (Post-Normalization) | $4M | $229 | 19K |
 
-The pandemic window (Mar 2020–Mar 2021) was the clear performance peak across all
-three metrics — $12M in sales, $297 AOV, and 39K orders. Each subsequent period has
+- The pandemic window (Mar 2020–Mar 2021) was the clear performance peak across all
+three metrics - $12M in sales, $297 AOV, and 39K orders. Each subsequent period has
 seen declining sales, AOV, and order volume, with the post-normalization period
 returning closer to pre-pandemic baselines at $4M and $229 AOV.
 
-### Pricing Anomalies
+### <ins>Pricing Anomalies<ins>
 
-The following products show orders at price ranges inconsistent with their known
+- The following products show orders at price ranges inconsistent with their known
 retail pricing. These records have been flagged for data integrity review and should
 be noted in any pricing or AOV analysis.
 
@@ -136,13 +136,13 @@ be noted in any pricing or AOV analysis.
 | Samsung Charging Cable Pack | $1,000+ | 1 | $20 |
 | Thinkpad Laptop | <$1,000 | 550 | $1,101 |
 
-ThinkPad and MacBook represent the largest anomaly risk by order count — 550 and
+- ThinkPad and MacBook represent the largest anomaly risk by order count — 550 and
 259 orders respectively at price points well below retail. At their AOVs of $1,101
 and $1,591, even a small number of mispriced orders could meaningfully skew revenue
 and AOV figures. The Samsung Charging Cable Pack's single $1,000+ order is likely
 a data entry error given its $20 AOV.
 
-### Top 3 Product Share
+### <ins>Top 3 Product Share<ins>
 
 <div align="center">
   <img src="images/Top3 -  4K Gaming Monitor Leads Top 3 Products in Revenue.png" width="45%">
@@ -160,10 +160,10 @@ $442K in revenue despite its high order volume, reflecting its $20 AOV
 - **Gaming Monitor Grows Revenue Share:** On the revenue side, Gaming Monitor has
 grown from ~35% to nearly 50%+ share by late 2022, largely absorbing MacBook's decline.
 
-### Gaming Monitor by Region
+### <ins>Gaming Monitor by Region<ins>
 
 <div align="center">
-  <img src="imagesTop3 - 4K Gaming Monitor Overtakes Macbook in all Regions.png" width="75%">
+  <img src="images/Top3 - 4K Gaming Monitor Overtakes Macbook in all Regions.png" width="80%">
 </div>
 
 - **Gaming Monitor is the Most Popular Product Across All Regions:** North America
@@ -178,17 +178,17 @@ dominance, LATAM and APAC contribute minimally to its overall revenue. LATAM in
 particular remains flat throughout the entire period, suggesting either limited
 market penetration or low purchasing power relative to the product's price point.
 
-### Apple Spotlight
+### <ins>Apple Spotlight<ins>
 
 <div align="center">
-  <img src="images/apple_dashboard.png" width="100%">
+  <img src="images/Macbook North American AoV Fluctuates with 4Q22 Outlier.png" width="70%">
 </div>
 
-- **Apple Peak Late 2020, Declining Steadily Since:** North America drove
-the majority of Apple's pandemic-era growth, peaking between September and December
-2020. All regions have declined since Q4 2021, with the rate of decline steepening
-notably through 2022. The cause of this steep drop-off warrants
-further investigation before drawing permanent conclusions about Apple's trajectory.
+- **Apple Peak Late 2020, Declining Steadily Since:** North America drove the majority of Apple's
+pandemic-era growth, peaking between September and December 2020. All regions have
+declined since Q4 2021, with the rate of decline steepening notably through 2022.
+The cause of this steep drop-off warrants further investigation before drawing permanent
+conclusions about Apple's trajectory.
 
 - **MacBook NA Sales and Volume Move in Lockstep:** MacBook sales and order volume
 in North America track extremely closely throughout the period, Both metrics peaked in
@@ -216,7 +216,7 @@ before declining alongside overall sales. See the [Refund Trends](#refund-trends
 for a full product and brand-level breakdown.
 
 
-## Refunds
+## <ins>Refunds<ins>
 
 *Refund risk at TechHaven splits into two distinct categories - high volume concentrated
 in Apple products and high rate concentrated in Lenov - though a likely
@@ -224,7 +224,7 @@ in Apple products and high rate concentrated in Lenov - though a likely
 
 <div align="center">
   <img src="images/Reunds - Treemap.png" width="45%">
-  <img src="images/refund_treemap.png" width="45%">
+  <img src="images/Refunds - Table1.png" width="45%">
 </div>
 
 - **Refund Rate vs. Refund Volume:** ThinkPad carries the highest refund rate at 12% but
@@ -283,12 +283,13 @@ overall. See [Loyalty Program Performance](#loyalty-program-performance) below.*
 near-zero repeat purchase rate, higher refund frequency, and eroding AOV advantage
 point to a program in need of significant restructuring.*
 
-![Loyalty Program Chart](images/Loyalty - Loyalty members.png)
+
+<img src="images/Loyalty - Loyalty members.png" width ="25%">
 
 
 <div align="center">
   <img src="images/Loyalty - Non-Loyalty AOV sees $345 in 2020 while Loylaty AOV Remains Even.png" width="45%">
-  <img src="images/Loyalty - Loyalty Members Return More Often.png" width="45%">
+  <img src="images/Loyalty - Loyalty Members Return More Often.png" width="50%">
 </div>
 
 - **Revenue Contribution:** Since Q2-2021, loyalty members have generated higher 
