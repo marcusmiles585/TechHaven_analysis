@@ -145,8 +145,8 @@ a data entry error given its $20 AOV.
 ### Top 3 Product Share
 
 <div align="center">
-  <img src="images/top3_revenue_share.png" width="45%">
-  <img src="images/top3_order_share.png" width="45%">
+  <img src="images/Top3 -  4K Gaming Monitor Leads Top 3 Products in Revenue.png" width="45%">
+  <img src="images/Top3 - Airpods Lead Top 3 Products by Order in Total Orders.png" width="45%">
 </div>
 
 - **Three Products Dominate:** By revenue, the 27in 4K Gaming Monitor ($9.8M), Apple
@@ -163,7 +163,7 @@ grown from ~35% to nearly 50%+ share by late 2022, largely absorbing MacBook's d
 ### Gaming Monitor by Region
 
 <div align="center">
-  <img src="images/gaming_monitor_region.png" width="75%">
+  <img src="imagesTop3 - 4K Gaming Monitor Overtakes Macbook in all Regions.png" width="75%">
 </div>
 
 - **Gaming Monitor is the Most Popular Product Across All Regions:** North America
@@ -223,7 +223,7 @@ in Apple products and high rate concentrated in Lenov - though a likely
 2022 data integrity issue means trends should be interpreted with caution.*
 
 <div align="center">
-  <img src="images/refund_brand_share.png" width="45%">
+  <img src="images/Reunds - Treemap.png" width="45%">
   <img src="images/refund_treemap.png" width="45%">
 </div>
 
@@ -283,12 +283,12 @@ overall. See [Loyalty Program Performance](#loyalty-program-performance) below.*
 near-zero repeat purchase rate, higher refund frequency, and eroding AOV advantage
 point to a program in need of significant restructuring.*
 
-![Loyalty Program Chart](images/loyalty_performance.png)
+![Loyalty Program Chart](images/Loyalty - Loyalty members.png)
 
 
 <div align="center">
-  <img src="images/loyalty_sales_aov.png" width="45%">
-  <img src="images/loyalty_refunds.png" width="45%">
+  <img src="images/Loyalty - Non-Loyalty AOV sees $345 in 2020 while Loylaty AOV Remains Even.png" width="45%">
+  <img src="images/Loyalty - Loyalty Members Return More Often.png" width="45%">
 </div>
 
 - **Revenue Contribution:** Since Q2-2021, loyalty members have generated higher 
