@@ -26,17 +26,15 @@ refunds, loyalty program performance, and marketing channels.
   <img src="images/sales_trends.png" width="80%">
 </div>
 
-TechHaven rode the pandemic wave to peak performance in 2020–2021, but the underlying
-business has structural weaknesses — product concentration, a loyalty program that
-enrolls without retaining, and marketing channels that haven't diversified beyond
-organic traffic — now exposed as external tailwinds fade.
+TechHaven’s strong results in 2020–2021 were amplified by pandemic‑driven demand. 
+As those anomalies normalize, the data reveals several structural vulnerabilities: 
+reliance on a narrow set of products, a loyalty program that isn’t improving customer 
+lifetime value, and marketing channels still overly dependent on organic traffic.
 
 - **$28M in total revenue**, 108K orders, $260 AOV across 2019–2022
 - **Pandemic peak (Mar 2020–Mar 2021):** $12M in sales, $297 AOV, 39K orders
-- **Post-normalization (Jan 2022+):** Revenue fell to $4M, AOV declined to $229
 - **Gaming Monitor, AirPods, and MacBook** account for ~82% of total revenue
 - **Loyalty program is not driving retention** — only 39 of 38,756 members made repeat purchases
-- **Email is the only channel** to grow in both 2020 (+223%) and 2021 (+24%)
 - **⚠️ 2022 refund data missing** — likely a data integrity issue requiring validation
 
 ---
