@@ -40,8 +40,8 @@ lifetime value, and marketing channels still overly dependent on organic traffic
 ## Product Trends & Apple Spotlight
 
 Three products drive 82% of TechHaven's revenue with ~97% concentrated among a
-handful of brands — a concentration risk that compounds as Apple, once a
-leader, has declined since 2021. The 4K Gaming Monitor has grown its share steadily to
+handful of brands — a risk that compounds as Apple, once a leader, has declined
+since 2021. The 4K Gaming Monitor has grown its share steadily to
 fill that gap, while Bose Headphones and Samsung Webcam trends are too limited 
 to rely on going forward.
 
