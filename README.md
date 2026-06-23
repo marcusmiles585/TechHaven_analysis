@@ -193,9 +193,8 @@ making Email the clearest lever for retention and acquisition investment.
 
 - **Email only channel to grow in both 2020 (+223%) and 2021 (+24%)**
 - **Email is the primary loyalty channel** — only channel where loyalty leads non-loyalty (11K vs. 8K)
-- **Direct dominates at $23M (~82%)** — organic behavior, not a managed channel
 - **Affiliate has the highest AOV** at ~$303 despite only 2,900 orders — underinvested
-- **Social Media:** Highest refund rate at 7.58% despite only 1,293 orders
+- **Direct dominates at $23M (~82%)** — organic behavior, not a managed channel
 - **Unknown channel:** Spiked +2,325% in 2020 and +295% in 2022 — likely attribution error
 
 | Channel | Order Count | Refund Rate | 2020 YoY | 2021 YoY |
