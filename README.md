@@ -22,10 +22,6 @@ refunds, loyalty program performance, and marketing channels.
 
 # Executive Summary
 
-<div align="center">
-  <img src="images/sales_trends.png" width="80%">
-</div>
-
 TechHaven’s strong results in 2020–2021 were amplified by pandemic‑driven demand. 
 As those anomalies normalize, the data reveals several structural vulnerabilities: 
 reliance on a narrow set of products, a loyalty program that isn’t improving customer 
@@ -44,9 +40,9 @@ lifetime value, and marketing channels still overly dependent on organic traffic
 ## Product Trends & Apple Spotlight
 
 Three products drive 82% of TechHaven's revenue with ~97% concentrated among a
-handful of brands — a concentration risk that compounds as Apple, once the category
-leader, has declined since Q4 2021. Gaming Monitor has grown its share steadily to
-fill the gap, while Bose Headphones and Samsung Webcam show trends too limited or situational
+handful of brands — a concentration risk that compounds as Apple, once a
+leader, has declined since 2021. The 4K Gaming Monitor has grown its share steadily to
+fill that gap, while Bose Headphones and Samsung Webcam trends are too limited 
 to rely on going forward.
 
 ### Performance by Period
@@ -61,10 +57,9 @@ to rely on going forward.
 
 ### Top 3 Product Share
 
-Revenue and order leadership tell different stories — Gaming Monitor leads in dollars
-while AirPods dominate by volume. Samsung Charging Cable ranks 3rd in orders but
-barely registers in revenue, illustrating the gap between what drives transactions
-and what drives the business.
+Revenue and order leadership tell different stories — While the 4K Gaming Monitor leads in dollars,
+AirPods dominate by volume. The Samsung Charging Cable ranks 3rd in orders but
+barely registers in revenue.
 
 <div align="center">
   <img src="images/Top3 - 4K Gaming Monitor Leads Top 3 Products in Revenue.png" width="45%">
@@ -74,16 +69,14 @@ and what drives the business.
 - **Revenue leaders:** Gaming Monitor ($9.8M), AirPods ($7.7M), MacBook ($6.3M) — 82% of total
 - **Order leaders:** AirPods (48K), Gaming Monitor (23K), Samsung Charging Cable (22K)
 - **Samsung Charging Cable:** 22K orders but only $442K revenue — $20 AOV
-- **Gaming Monitor revenue share** grown from ~35% to 50%+ by late 2022
-- **MacBook revenue share eroding** since Q4 2021, absorbed by Gaming Monitor
-- **~97% of revenue** concentrated among Apple, Lenovo, and a small group of brands
-- **Bose:** -91% decline in 2022 across only 27 total orders — not enough data to conclude
 - **Samsung Webcam:** +134% in 2021 driven by remote work demand — unlikely to sustain
+- **Gaming Monitor revenue share** grown from ~35% to 50%+ by late 2022
+- **~97% of revenue** concentrated among Apple, Lenovo, and a small group of brands
+- **Bose:** -90% decline in 2022 across 27 total orders — not enough data
 
-### Gaming Monitor by Region
+### 4K Gaming Monitor by Region
 
-Gaming Monitor is the top product in every region, with North America leading by a
-significant margin. Outside of NA and EMEA, contribution remains minimal.
+4K Gaming Monitor is the top product in every region, with North America leading.
 
 <div align="center">
   <img src="images/Top3 - 4K Gaming Monitor Overtakes Macbook in all Regions.png" width="80%">
@@ -95,9 +88,8 @@ significant margin. Outside of NA and EMEA, contribution remains minimal.
 
 ### Apple Spotlight
 
-Apple peaked in late 2020 and has declined across all regions since Q4 2021. MacBook's
-sales and order volume move in lockstep — this is a demand problem, not a pricing or
-product mix issue.
+Apple, once a product leader has seen continued decline since Q4 2021.
+It's worth investigating the steep 2022 drop off.
 
 <div align="center">
   <img src="images/Apple Dashboard.png" width="100%">
@@ -140,17 +132,15 @@ comparisons.
 </div>
 
 - **MacBook:** Highest total refund value at $717K (452 refunds, 11% rate, $1,588 AOV)
-- **Gaming Monitor:** $608K total refund value (1,445 refunds, 6% rate)
-- **AirPods:** $421K — 3rd despite most refunds (2,636) due to lower $160 AOV
-- **ThinkPad:** Highest refund rate at 12% but 4th in total impact ($377K, 343 refunds)
-- **Rate alone is misleading** — AOV and volume must be considered together
+-  **Rate alone is misleading** — AOV and volume must be considered together.
+   * **4K Gaming Monitor** has $608K total refund value, 2nd to Macbook but only 6% refund rate
+   * **AirPods** are 3rd despite most refunds (2,636) due to lower $160 AOV
+   * **ThinkPad** has the highest refund rate at 12% but 4th in total impact ($377K, 343 refunds)
 - **Apple:** 58% of all refunds (3,110) at 6% avg rate — driven by AirPods volume
-- **Lenovo:** 12% rate | **Samsung:** 2% rate | **Bose:** 0% across 27 orders (unreliable)
-- **Premium tier:** Highest blended refund rate at 7% across ~4K refunds
-- **2020 spike:** AirPods generated ~1,550 refunds — nearly double 2019 volume
+- **2020 spike:** AirPods generated ~1,550 refunds — nearly double 2019 volume and 58% of total AirPod refunds.
 - **⚠️ 2022 data flag:** 0 refunds recorded despite 21,565 orders — ~1,000+ expected
 - **Loyalty members:** 2.8K refunds vs. non-loyalty 2.5K despite fewer total orders
-- **Non-loyalty refund AOV:** ~$549 vs. loyalty ~$297 — converging to ~$225 by 2022
+- **Loyalty refund AOV:**  ~$297 vs. non-loyalty ~$549  — converging to ~$225 by 2022
 
 *Refund behavior by loyalty segment raises broader questions about program effectiveness —
 see [Loyalty Program Performance](#loyalty-program-performance) below.*
