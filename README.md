@@ -1,4 +1,4 @@
-<h1 align="center">TechHaven - E-commerce Analysis</h1>
+<h1 align="center">TechHaven - Performance Analysis</h1>
 
 
 TechHaven is a global e-commerce company founded in 2018 specializing in consumer
