@@ -31,7 +31,7 @@ lifetime value, and marketing channels still overly dependent on organic traffic
 - **Pandemic peak (Mar 2020–Mar 2021):** $12M in sales, $297 AOV, 39K orders
 - **Gaming Monitor, AirPods, and MacBook** account for ~82% of total revenue
 - **Loyalty program is not driving retention** — only 39 of 38,756 members made repeat purchases
-- **⚠️ 2022 refund data missing** — likely a data integrity issue requiring validation
+- **2022 refund data missing** — likely a data integrity issue requiring validation
 
 ---
 
@@ -138,7 +138,7 @@ comparisons.
    * **ThinkPad** has the highest refund rate at 12% but 4th in total impact ($377K, 343 refunds)
 - **Apple:** 58% of all refunds (3,110) at 6% avg rate — driven by AirPods volume
 - **2020 spike:** AirPods generated ~1,550 refunds — nearly double 2019 volume and 58% of total AirPod refunds.
-- **⚠️ 2022 data flag:** 0 refunds recorded despite 21,565 orders — ~1,000+ expected
+- **2022 data flag:** 0 refunds recorded despite 21,565 orders — ~1,000+ expected
 - **Loyalty members:** 2.8K refunds vs. non-loyalty 2.5K despite fewer total orders
 - **Loyalty refund AOV:**  ~$297 vs. non-loyalty ~$549  — converging to ~$225 by 2022
 
