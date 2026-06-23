@@ -55,7 +55,7 @@ barely registers in revenue, illustrating the gap between what drives transactio
 and what drives the business.
 
 <div align="center">
-  <img src="images/Top3 -  4K Gaming Monitor Leads Top 3 Products in Revenue.png" width="45%">
+  <img src="images/Top3 - 4K Gaming Monitor Leads Top 3 Products in Revenue.png" width="45%">
   <img src="images/Top3 - Airpods Lead Top 3 Products by Order in Total Orders.png" width="45%">
 </div>
 
