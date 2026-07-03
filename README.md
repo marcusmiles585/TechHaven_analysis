@@ -1,22 +1,19 @@
 <h1 align="center">TechHaven - Performance Analysis</h1>
 
 
+# Project Overview
 TechHaven is a global e-commerce company founded in 2018 specializing in consumer
-electronics. Offering products from top brands such as Apple, Samsung, Bose and Lenovo,
-this analysis covers **$28M in revenue across 108K orders from 2019–2022**.
-
-
-# Project Goals
+electronics. Offering products from top brands such as Apple, Samsung, Bose and Lenovo.
 TechHaven's Head of Operations has requested a comprehensive analysis of company performance
-between 2019 and 2022. This analysis addresses key business questions across product trends,
-refunds, loyalty program performance, and marketing channels.
+between **2019 and 2022**. This analysis covers **$28M in revenue across 108K orders,**
+addressing key business questions across product trends, refunds, loyalty program performance,
+and marketing channels.
 
 # Northstar Metrics
-- **Product Performance**: Identifies top and bottom performers across product lines, with a focus on refund rates and revenue concentration.
-- **Refund Trends**: With a focus on Apple, examines refund behavior and how it relates to the broader book of business.
+- **Product Performance**: Compare performance across product lines.
+- **Refund Trends**: With a focus on Apple, examines refund behavior.
 - **Loyalty Program Performance**: Evaluates the effectiveness of the loyalty program and whether continued investment is warranted.
 - **Marketing Channel Performance**: Analyzes how each acquisition channel contributes to order volume and revenue.
-- **Regional Performance**: Explores how products perform across global markets.
 
 ---
 
@@ -27,15 +24,20 @@ As those anomalies normalize, the data reveals several structural vulnerabilitie
 reliance on a narrow set of products, a loyalty program that isn’t improving customer 
 lifetime value, and marketing channels still overly dependent on organic traffic.
 
-- **$28M in total revenue**, 108K orders, $260 AOV across 2019–2022
+---
+
+# Key Insights
 - **Pandemic peak (Mar 2020–Mar 2021):** $12M in sales, $297 AOV, 39K orders
 - **Gaming Monitor, AirPods, and MacBook** account for ~82% of total revenue
 - **Loyalty program is not driving retention** — only 39 of 38,756 members made repeat purchases
 - **2022 refund data missing** — likely a data integrity issue requiring validation
 
+
+
+
 ---
 
-# Analysis & Insights
+# Analysis
 
 ## Product Trends & Apple Spotlight
 
@@ -208,25 +210,7 @@ making Email the clearest lever for retention and acquisition investment.
 | Unknown | 1,469 | 2.45% | +2,324.56% | -12.32% |
 
 ---
-## Regional Performance
-
-All four regions followed the same pandemic-driven arc — spike in 2020, peak in 2021,
-contraction in 2022 — with NA and EMEA driving the overwhelming majority of revenue
-throughout. The pattern was global, not market-specific.
-
-- **NA ~54% of revenue ($14M)**, EMEA ~30% ($8M) — together over 80% of total
-- **All four regions mirrored the same growth and decline pattern** — 2020 pandemic
-  spike, 2021 peak, 2022 contraction were global in nature, not driven by any single market
-- **NA deviated slightly** — smaller decline in 2021 (-16%) vs. other regions, followed
-  by a steeper drop in 2022 (-39%)
-- **November and December are peak months across NA, EMEA, and APAC** — consistent
-  holiday-driven demand that can be planned around. LATAM breaks from this pattern,
-  peaking in July (+24%) rather than the holiday season, with a more modest Nov–Dec
-  lift (~10%) — suggesting distinct regional demand drivers that warrant a tailored
-  approach rather than a global campaign strategy
-- **NA accounts for ~$1.2M in total refunds** — more than double EMEA at $569K,
-  making it the primary driver of refund-related financial impact
----
+## Recommendations
 
 | Priority | Department | Recommendation |
 |---|---|---|
