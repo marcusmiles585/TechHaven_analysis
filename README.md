@@ -41,9 +41,8 @@ Taken together, the findings depict a company that grew quickly during a period 
 ## Product Performance
 
 <div align="center">
-  <img src="images/Top3 -  4K Gaming Monitor Leads Top 3 Products in Revenue.png" width="45%">
-  <img src="images/Top3 - Airpods Lead Top 3 Products by Order in Total Orders.png" width="45%">
-</div>
+  <img src="images/Product.png" width="100%">
+ </div>
 
 **TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K Gaming Monitor absorbed share from MacBook demand (from 35% to 50%), revealing how shifts in consumer behavior reshaped the business.** Three products drive 82% of revenue, and the pandemic surge masked this concentration risk. As demand normalized, sales, AOV, and order volume fell below pre‑pandemic baselines, making diversification and gaming peripheral expansion essential.
 - Revenue is heavily concentrated in Gaming Monitor ($9.8M), AirPods ($7.7M), and
@@ -51,16 +50,9 @@ Taken together, the findings depict a company that grew quickly during a period 
 - Order leadership is led by AirPods at 48K orders, Gaming Monitor at 23K and Samsung Charging Cable at 22K - Samsung Charging Cable and Samsung Webcam high order volumes make them
 natural candidates for bundling with higher-value purchases to increase cart size.
 
-
-### Product Spotlight
-
 <div align="center">
-  <img src="images/Top3 - 4K Gaming Monitor Overtakes Macbook in all Regions.png" width="80%">
-</div>
-
-<div align="center">
-  <img src="images/Macbook North American AoV Fluctuates with 4Q22 Outlier.png" width="70%">
-</div>
+  <img src="images/Product2.png" width="90%">
+ </div>
 
 Gaming Monitor is TechHaven's growth story - the most popular product across all
 regions, growing from 35% to 58%+ revenue share by late 2022 and peaking at ~$186K
@@ -74,8 +66,7 @@ flag worth investigating.
 ## Refunds
 
 <div align="center">
-  <img src="images/Reunds - Treemap.png" width="45%">
-  <img src="images/Refunds - Total Avg.png" width="50%">
+   <img src="images/Apple_2.png" width="100%">
 </div>
 
 There are two drivers of refund risk — volume and AOV — and they point to different
@@ -89,9 +80,19 @@ concentration warrants a dedicated post-purchase support strategy as order volum
 recovers.
 
 - Refunds have a long maturity window of 1- 5 years later.
+
+<div align="center">
+   <img src="images/Apple_3.png" width="80%">
+</div>
+
+  
 ---
 
 ## Loyalty Program Performance
+
+<div align="center">
+  <img src="images/Loyalty_4.png" width="80%">
+</div>
 
 Loyalty members are high‑value but low‑retention. The program attracts the right customers but gives them no reason to return. Loyalty members spend more per product than non-loyalty across nearly every
 category - MacBook loyalty AOV ~$1,700 vs. ~$1,600 for non-loyalty, and Gaming
@@ -100,13 +101,9 @@ made a second purchase. These aren't discount hunters - they're genuinely higher
 customers who buy once and never return.
 
 <div align="center">
-  <img src="images/39 Returning Loyalty Members; $29K Total Sales.png" width="80%">
+  <img src="images/Loyalty_1.png" width="80%">
 </div>
 
-<div align="center">
-  <img src="images/Loyalty Program AoV2.png" width="45%">
-  <img src="images/Loyalty Program Total Sales Outpace Non Members 2Q-2021 but Falter Q4-2022.png" width="45%">
-</div>
 
 The program's sales advantage over non-loyalty since Q2 2021 is real, but the reason
 matters. Loyalty didn't accelerate - non-loyalty declined. Non-loyalty generated
@@ -117,7 +114,8 @@ crashed back, making loyalty appear stronger by comparison rather than because m
 were actually spending more over time.
 
 <div align="center">
-  <img src="images/Loyalty - Loyalty Members Return More Often2.png" width="50%">
+  <img src="images/Loyalty_2.png" width="45%">
+  <img src="images/Loyalty_3.png" width="45%">
 </div>
 
 TechHaven’s loyalty program isn’t failing because customers are disengaged — it’s failing because the product catalog itself doesn’t create natural repeat‑purchase behavior. High‑AOV, single‑purchase electronics mean customers buy once, then have no inherent reason to return, so loyalty must shift from purchase‑based incentives to engagement between purchases.
@@ -137,9 +135,6 @@ The highest AOV at ~$303 - consistently attracting higher-intent,
   closely monitored. If meaningful return isn't evident within 6-12 months, the program
   should be discontinued.
 
-![Marketing Channel Chart](images/marketing_channel.png)
-
-
 | Channel | Order Count | Refund Rate | 2020 YoY | 2021 YoY |
 |---|---|---|---|---|
 | Email | 18,553 | 5% | +223% | +24% |
@@ -155,7 +150,7 @@ The highest AOV at ~$303 - consistently attracting higher-intent,
 
 ---
 
-### Data Integrity Issues
+## Data Integrity Issues
 
 Several products show orders at price ranges inconsistent with known retail pricing.
 These anomalies likely understate AOV for affected products, meaning real performance
@@ -175,6 +170,11 @@ until resolved. A second data point to note is the lack of sales post 2022 - thi
   products
 - **Samsung Charging Cable's** single $1,000+ order is almost certainly a data entry
   error and should be excluded from any channel or product-level averages
+
+<div align="center">
+  <img src="images/Data_1.png" width="45%">
+  <img src="images/Data_2.png" width="45%">
+</div>
 
 To Add
 	- If the business truly had no sales after 2022, this would indicate operational shutdown — but the dataset alone cannot confirm this
