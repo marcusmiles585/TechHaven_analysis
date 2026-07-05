@@ -9,7 +9,7 @@ examining product performance, refunds, loyalty program performance, and marketi
 # Executive Summary
 
 <div align="center">
-  <img src="images/sales_trends.png" width="80%">
+  <img src="images/Overview_1.png" width="80%">
 </div>
 
 Between 2019 and 2022, TechHaven generated $28M across 108K orders, with performance accelerating sharply during the pandemic surge of 2020–2021. Elevated demand for premium electronics — especially the 27‑inch 4K Gaming Monitor, the only product to dominate across all four global regions — pushed average order value to $297 and positioned TechHaven for its strongest year on record. The surge aligned with broader gaming and streaming trends, creating a temporary tailwind that amplified the company’s core strengths.
