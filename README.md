@@ -45,11 +45,11 @@ Taken together, the findings depict a company that grew quickly during a period 
   <img src="images/Top3 - Airpods Lead Top 3 Products by Order in Total Orders.png" width="45%">
 </div>
 
-TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K Gaming Monitor absorbed share from MacBook demand (from 35% to 50%), revealing how shifts in consumer behavior reshaped the business. Three products drive 82% of revenue, and the pandemic surge masked this concentration risk. As demand normalized, sales, AOV, and order volume fell below pre‑pandemic baselines, making diversification and gaming peripheral expansion essential.
-	• Revenue is heavily concentrated in Gaming Monitor ($9.8M), AirPods ($7.7M), and
+**TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K Gaming Monitor absorbed share from MacBook demand (from 35% to 50%), revealing how shifts in consumer behavior reshaped the business.** Three products drive 82% of revenue, and the pandemic surge masked this concentration risk. As demand normalized, sales, AOV, and order volume fell below pre‑pandemic baselines, making diversification and gaming peripheral expansion essential.
+- Revenue is heavily concentrated in Gaming Monitor ($9.8M), AirPods ($7.7M), and
 	MacBook ($6.3M) - losing any one of them meaningfully changes the business.
-	• Order leadership is led by AirPods at 48K orders, Gaming Monitor at 23K and Samsung Charging Cable at 22K - Samsung Charging Cable and Samsung Webcam high order volumes make them
-	natural candidates for bundling with higher-value purchases to increase cart size.
+- Order leadership is led by AirPods at 48K orders, Gaming Monitor at 23K and Samsung Charging Cable at 22K - Samsung Charging Cable and Samsung Webcam high order volumes make them
+natural candidates for bundling with higher-value purchases to increase cart size.
 
 
 ### Product Spotlight
