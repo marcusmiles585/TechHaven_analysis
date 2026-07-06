@@ -44,7 +44,7 @@ Taken together, the findings depict a company that grew quickly during a period 
   <img src="images/Product.png" width="100%">
  </div>
 
-**TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K Gaming Monitor absorbed share from MacBook demand (from 35% to 50%), revealing how shifts in consumer behavior reshaped the business. Three products drive 82% of revenue, and the pandemic surge masked this concentration risk.** As demand normalized, sales, AOV, and order volume fell below pre‑pandemic baselines, making diversification and gaming peripheral expansion essential.
+**TechHaven’s product portfolio is structurally imbalanced: the rise of the 4K Gaming Monitor absorbed share from MacBook demand (from 35% to 58%), revealing how shifts in consumer behavior reshaped the business. Three products drive 82% of revenue, and the pandemic surge masked this concentration risk.** As demand normalized, sales, AOV, and order volume fell below pre‑pandemic baselines, making diversification and gaming peripheral expansion essential.
 - Revenue is heavily concentrated in **Gaming Monitor ($9.8M), AirPods ($7.7M), and
 	MacBook ($6.3M)** - losing any one of them meaningfully changes the business.
 - Order leadership is led by **AirPods at 48K orders, Gaming Monitor at 23K and Samsung Charging Cable at 22K** - Samsung Charging Cable and Samsung Webcam high order volumes make them
@@ -94,8 +94,8 @@ recovers.
 
 **Loyalty members are high‑value but low‑retention.** The program attracts the right customers but gives them no reason to return. Loyalty members spend more per product than non-loyalty across nearly every
 category - MacBook loyalty AOV ~$1,700 vs. ~$1,600 for non-loyalty, and Gaming
-Monitor loyalty AOV is ~$460 vs. ~$390. Despite this, only 39 of 38,756 members ever
-made a second purchase. These aren't discount hunters - they're genuinely higher-value
+Monitor loyalty AOV is ~$460 vs. ~$390. Despite this, **only 39 of 38,756 members ever
+made a second purchase**. These aren't discount hunters - they're genuinely higher-value
 customers who buy once and never return.
 
 <div align="center">
@@ -127,7 +127,7 @@ TechHaven’s loyalty program isn’t failing because customers are disengaged �
 orders vs. 8K from non-loyalty. Every other channel declined in 2021 after the
 pandemic spike. This makes Email the most
 direct lever for any loyalty restructuring effort.  **The Affiliate Program channel has
-The highest AOV at ~$303** - consistently attracting higher-intent,
+the highest AOV at ~$303** - consistently attracting higher-intent,
   higher-value customers. This warrants increased investment; however, given its sharp
   2021 decline (-41%), performance should be
   closely monitored. If meaningful return isn't evident within 6-12 months, the program
@@ -153,8 +153,14 @@ The highest AOV at ~$303** - consistently attracting higher-intent,
 **Several products show orders at price ranges inconsistent with known retail pricing.**
 These anomalies likely understate AOV for affected products, meaning real performance
 may be stronger than reported. They should be flagged in any AOV or revenue analysis
-until resolved. A second critical data gap is the complete absence of recorded sales after 2022, while refunds continue into 2025 -
-a mismatch that limits trend reliability and may indicate missing transactional data
+until resolved. A second critical data gap is the complete **absence of recorded sales after 2022, while refunds continue into 2025** -
+a mismatch that limits trend reliability and may indicate missing transactional data.
+The dataset contains **no sales records beyond 2022.** If this reflects a true 
+operational gap rather than a data extract cutoff, it would suggest a significant 
+business disruption - potentially including operational shutdown. However, the 
+continued presence of refund activity into 2025 indicates the business was still 
+processing returns after the sales cutoff, suggesting the dataset may simply be 
+incomplete
 
 | Product | Suspicious Price Range | Order Count | AOV |
 |---|---|---|---|
@@ -174,8 +180,6 @@ a mismatch that limits trend reliability and may indicate missing transactional 
   <img src="images/Data_1.png" width="45%">
   <img src="images/Data_2.png" width="45%">
 </div>
-
-- If the business truly had no sales after 2022, this would indicate operational shutdown - but the dataset alone cannot confirm this
 
 ---
 
