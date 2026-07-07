@@ -13,7 +13,7 @@ between **2019 and 2022**.
   <img src="images/Overview_1.png" width="80%">
 </div>
 
-Between 2019 and 2022, TechHaven generated **$28M across 108K orders**, with performance accelerating sharply during the pandemic surge of 2020–2021. Elevated demand for premium electronics - especially the 27‑inch 4K Gaming Monitor, the only product to dominate across all four global regions - pushed average order value to $297 and positioned TechHaven for its strongest year on record. The surge aligned with broader gaming and streaming trends, creating a temporary tailwind that amplified the company’s core strengths.
+Between 2019 and 2022, TechHaven generated **$28M across 108K orders**, with performance accelerating sharply during the pandemic surge of 2020–2021. Elevated demand for premium electronics - especially the 27‑inch 4K Gaming Monitor, the only product to dominate across all four global regions - pushed average order value to $297 and positioned TechHaven for its strongest year on record. The surge aligned with broader wfh, gaming and streaming trends.
 As conditions normalized post‑2021, the business experienced a significant decline in both sales and AOV, revealing structural vulnerabilities that had been masked by pandemic‑driven demand. **Revenue remained heavily concentrated in a narrow set of products, with Apple generating disproportionate refunds and gaming monitors carrying outsized revenue share. The loyalty program showed near‑zero retention, with only 39 repeat purchasers out of 38,756 members**, indicating that TechHaven was acquiring customers but not building long‑term relationships. Marketing channels leaned too heavily on organic traffic, while email and affiliate - the only channels showing consistent strength - remained under‑leveraged.
 The analysis also uncovered data integrity issues, including pricing anomalies across five major products and missing refund data for 2022. These gaps likely understate true performance and limit the company’s ability to make accurate, timely decisions.
 Taken together, the findings depict a company that grew quickly during a period of extraordinary demand, but now must evolve its operating model to sustain long‑term growth. **The path forward centers on expanding the gaming product portfolio, redesigning loyalty mechanics, correcting pricing and refund data, and rebalancing marketing investment toward channels with measurable ROI.** These steps position TechHaven to transition from pandemic‑boosted momentum to a more resilient, strategically grounded future.
@@ -32,9 +32,9 @@ Taken together, the findings depict a company that grew quickly during a period 
 
 - **Gaming Monitor growth absorbed share from MacBook demand**, exposing concentration risk and the need for product diversification.
 
-- **Email is the only reliable growth and retention channel**, consistently outperforming all others and serving as the primary touchpoint for loyalty members.
+- **Email is the only reliable growth and retention channel**, consistently outperforming all other marketing channels, serving as the primary touchpoint for loyalty members.
 
-- **Pricing anomalies and missing purchase data distort AOV, profitability, and channel performance**, limiting TechHaven’s ability to make accurate strategic decisions.
+- **Pricing anomalies and missing purchase data may distort AOV, profitability, and channel performance**, limiting TechHaven’s ability to make accurate strategic decisions.
 
 ---
 # Analysis & Insights
@@ -188,7 +188,7 @@ incomplete
 
 | Priority | Department | Recommendation |
 |---|---|---|
-| 🔴 High | **Product** | Expand Gaming Monitor catalog into peripherals - growing from 35% to 50%+ revenue share signals strong demand worth building on |
+| 🔴 High | **Product** | Expand Gaming Monitor catalog into peripherals - growing from 35% to 58%+ revenue share signals strong demand worth building on |
 | 🔴 High | **Product** | Resolve pricing anomalies across 5 products - current data likely understates AOV, meaning performance may be stronger than reported |
 | 🔴 High | **CRM** | Restructure loyalty program - 38,756 members, only 39 repeat purchasers; the program is attracting quality customers but has no retention mechanism |
 | 🔴 High | **Marketing** | Invest in Email - only channel growing in both 2020 and 2021; primary touchpoint for loyalty members and the clearest lever for retention |
@@ -196,5 +196,3 @@ incomplete
 | 🟡 Medium | **Sales** | Bundle Samsung Charging Cables and Webcams with higher-value purchases - high order volumes make them natural add-ons to increase basket size without new customer acquisition |
 | 🟡 Medium | **CRM** | Introduce loyalty member benefits between purchases - exclusive offers, shipping perks, or early product access to create engagement touchpoints in a catalog that doesn't naturally drive repeat visits |
 | 🟡 Medium | **Marketing** | Increase Affiliate investment and monitor closely - highest AOV channel at $303 warrants a push, but if meaningful return isn't evident within 6 months, discontinue the program |
-| 🟢 Low | **Data** | Validate 2022 refund data - 0 refunds across 21,565 orders is almost certainly an error and limits the ability to draw trend conclusions |
-
