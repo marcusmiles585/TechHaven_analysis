@@ -7,6 +7,16 @@ between **2019 and 2022**.
 
 ---
 
+# Data Structure and ERD
+
+The database structure, as shown below, consists of four tables: orders, customers, geo_lookup, and order_status, with a total of 108,127 records.
+
+<div align="center">
+  <img src="images/ERD.png" width="80%">
+</div>
+
+---
+
 # Executive Summary
 
 <div align="center">
